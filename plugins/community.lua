@@ -6,11 +6,12 @@ return {
   { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.test.nvim-coverage" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
-  { import = "astrocommunity.scrolling.mini-animate" },
   { import = "astrocommunity.scrolling.nvim-scrollbar" },
+  { import = "astrocommunity.scrolling.neoscroll-nvim" },
   { import = "astrocommunity.search.nvim-hlslens" },
   { import = "astrocommunity.bars-and-lines.vim-illuminate" },
   { import = "astrocommunity.color.transparent-nvim"},
+  { import = "astrocommunity.media.vim-wakatime"},
   -- example of importing a plugin, comment out to use it or add your own
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
